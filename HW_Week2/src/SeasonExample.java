@@ -14,7 +14,6 @@ public class SeasonExample {
         } catch (IOException e) {
             System.err.println("Error reading input: " + e.getMessage());
         }
-
         String season;
         String Month = input;
 
