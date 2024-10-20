@@ -1,4 +1,4 @@
-public class StudentTest {
+public class StudentsTest {
     public static void main(String[] args) {
         testStudentCreation();
         testGetName();
