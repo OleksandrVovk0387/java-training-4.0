@@ -2,19 +2,19 @@
 <suite name="Suite1">
     <test name="TestClassOne">
         <classes>
-            <class name="test.java.example.TestClassOne" />
+            <class name="example.TestClassOne" />
         </classes>
     </test>
     <test name="TestClassTwo">
         <parameter name="param1" value="Hello" />
         <parameter name="param2" value="World" />
         <classes>
-            <class name="test.java.example.TestClassTwo" />
+            <class name="example.TestClassTwo" />
         </classes>
     </test>
     <test name="TestClassThree">
         <classes>
-            <class name="test.java.example.TestClassThree" />
+            <class name="example.TestClassThree" />
         </classes>
     </test>
 </suite>

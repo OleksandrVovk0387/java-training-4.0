@@ -1,7 +1,7 @@
-package test.java.example;
+package example;
 
 import org.testng.annotations.*;
-import test.java.example.BaseTest;
+import example.BaseTest;
 
 public class TestClassOne extends BaseTest {
 
