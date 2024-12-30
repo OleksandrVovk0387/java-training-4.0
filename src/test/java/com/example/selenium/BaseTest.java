@@ -1,4 +1,4 @@
-package test.java.com.example.selenium;
+package com.example.selenium;
 
 import main.java.com.example.selenium.steps.UserSteps;
 import io.github.bonigarcia.wdm.WebDriverManager;

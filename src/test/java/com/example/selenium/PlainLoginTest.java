@@ -1,4 +1,4 @@
-package test.java.com.example.selenium;
+package com.example.selenium;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;

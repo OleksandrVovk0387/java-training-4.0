@@ -1,8 +1,8 @@
-package test.java.com.example.selenium;
+package com.example.selenium;
 
 import org.testng.annotations.Test;
 
-public class LoginTest extends test.java.com.example.selenium.BaseTest {
+public class LoginTest extends com.example.selenium.BaseTest {
 
     @Test
     public void login() {
